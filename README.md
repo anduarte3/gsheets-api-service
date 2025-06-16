@@ -1,4 +1,4 @@
-# Google Sheets ✈️ Flight API Logger
+# Google Sheets ✈️ Flight API Service
 
 This Python script fetches live flight data from the [AviationStack API](https://aviationstack.com/) and logs it into a Google Sheet using the `gspread` library.
 
